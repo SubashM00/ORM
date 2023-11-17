@@ -47,6 +47,5 @@ class foodball_playerAdmin(admin.ModelAdmin):
 ![Alt text](<Screenshot (12).png>)
 
 
-
-## RESULT
+# RESULT
 Thus the program for creating a database using ORM hass been executed successfully
